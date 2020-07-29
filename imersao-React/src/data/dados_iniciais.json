@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://www.youtube.com/watch?v=Cf43hF4fZH4",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Formação de Front End na Alura",
@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Incrível Mundo de Gumball - O Aplicativo",
+          "url": "https://www.youtube.com/watch?v=7lXMu-2ZuYs"
         },
         {
           "titulo": "SEO com React",

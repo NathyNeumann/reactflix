@@ -16,7 +16,7 @@ function Footer() {
       </p>
       <p>
         Quer saber mais sobre meus projetos e estudos?  {'  '}
-        <a href="https://github.com/NathyNeumann">
+        <a href="https://github.com/NathyNeumann" target="_blank" rel="noopener noreferrer">
           
            Vá para o meu gitHub. 
         </a>
